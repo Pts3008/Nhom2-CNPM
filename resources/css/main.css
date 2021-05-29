@@ -1,0 +1,12 @@
+.list-product-title mt-3{
+	width: 100%;
+}
+.card card-product{
+	width: 100%;
+	margin: 10px;
+	overflow: hidden;
+}
+.site-footer{
+	width: 100%;
+	background:black;
+}
